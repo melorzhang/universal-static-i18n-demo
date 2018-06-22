@@ -85,7 +85,7 @@ module.exports = {
     demo1: "./src/pages/demo_1",
     demo2: "./src/pages/demo_2",
     "zh-CN": "./src/lang/zh-CN.js",
-    en: "./src/lang/en.js"
+    'en-US': "./src/lang/en-US.js"
   },
   output: {
     filename: "[name].[chunkhash:6].js",

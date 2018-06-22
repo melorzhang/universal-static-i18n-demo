@@ -1,4 +1,4 @@
-const locale = require('../locale/en.js');
+const locale = require('../locale/en-US.js');
 const lang = "en";
 if (!window.lang) {
   window.lang = lang;
